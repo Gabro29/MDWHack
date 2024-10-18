@@ -24,7 +24,7 @@ In this project, we developed a machine learning model capable of identifying fo
 The task was to build a classifier that assigns one dominant emotion to each tweet based on the provided dataset.
 
 ## Quick PDF Presentation
-[Click to open](./files/NES.pdf)
+[Click to open](./notebooks/NES.pdf)
 
 
 ## Repository Structure
